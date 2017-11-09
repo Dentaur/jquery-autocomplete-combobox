@@ -1,5 +1,6 @@
 # jquery-autocomplete-combobox
-Jquery Autocomplete Combobox
+jQuery Autocomplete Combobox
+Based on code from [jQuery Autocomplete](https://jqueryui.com/autocomplete/)
 
 # Usage example
 ```
